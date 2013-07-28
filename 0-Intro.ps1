@@ -16,8 +16,8 @@ tim@timrayburn.net
 http://TimRayburn.net
 817-760-0002
 
-Resume's Always Welcome
-Now, one with the show
+Resumes Always Welcome
+Now, on with the show
 "@
 $label.Font = $font
 $label.Size = $size
