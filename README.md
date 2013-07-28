@@ -1,0 +1,4 @@
+# PowerShell for Technologists
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/3.0/us/deed.en_US"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-nc-nd/3.0/us/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">PowerShell for Technologists</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://github.com/trayburn/Presentation-PowerShell" property="cc:attributionName" rel="cc:attributionURL">Tim Rayburn</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/3.0/us/deed.en_US">Creative Commons Attribution-NonCommercial-NoDerivs 3.0 United States License</a>.<br />Permissions beyond the scope of this license may be available at <a xmlns:cc="http://creativecommons.org/ns#" href="http://TimRayburn.net" rel="cc:morePermissions">http://TimRayburn.net</a>.
+
